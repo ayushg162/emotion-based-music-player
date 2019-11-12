@@ -1,4 +1,4 @@
-# spotify
+# Emotion Based Music Player
 
 A clone of spotify application.
 
